@@ -8,4 +8,5 @@ while num <=100:
         print("smaller than 1")
     num=num+1
 
-    
+has = 52
+
